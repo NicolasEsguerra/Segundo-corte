@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+40
+'Vamos a hallar el área de un triángulo'
+4
+1
+69
+'Señor usuario, por favor digite la base y la altura de su triángulo'
+5
+1
+4
+b, a
+6
+1
+4
+area
+7
+(b*a)/2
+4
+1
+51
+'Señor usuario, el área del triángulo es de: ',area
+1

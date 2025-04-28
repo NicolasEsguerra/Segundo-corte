@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+41
+'Señor usuario, por favor digite su edad'
+5
+1
+1
+e
+4
+1
+46
+'Selñor usuario, digite el valor de su compra'
+5
+1
+1
+c
+7
+0
+1
+6
+e>=105
+4
+1
+104
+'Señor usuario, usted no supera la edad requerida para hacer un descuento. Debes pagar un total de $', c
+13
+4
+1
+69
+'Señor usuario, ya que tienes 105 años te damos un descuento del 30%'
+6
+1
+1
+c
+9
+c-(c*0.3)
+4
+1
+99
+'Señor usuario, ya que tienes 105 años te damos un descuento del 30%. Debes pagar un total de $', c
+13
+1

@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+41
+'Vamos a hallar el área de un rectángulo'
+4
+1
+68
+'Señor usuario, por favor digite la base y la altura del rectángulo'
+5
+1
+4
+b, a
+6
+1
+4
+area
+3
+b*a
+4
+1
+50
+'Señor usuario, el area del rectángulo es: ', area
+1
